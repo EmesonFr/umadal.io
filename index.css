@@ -2,6 +2,7 @@ body{
     text-align: center;
     min-height: 100vh;
     background-image: url("images.jfif");
+    background-repeat: repeat
    
 }
 
@@ -18,11 +19,7 @@ h1{
     height: 900px;
     border: none;
 }
-p{ 
-    font-size: 20px;
-    font-family: Arial;
-    color: aliceblue;
-}
+
 
 
 
